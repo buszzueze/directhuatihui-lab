@@ -1,2 +1,14 @@
 # directhuatihui-lab
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
